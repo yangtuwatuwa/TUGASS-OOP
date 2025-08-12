@@ -1,4 +1,4 @@
-<h1>KELOMPOK 1 KKJ</h1>
+<h1>KELOMPOK 1 KKJ OOP</h1>
 <ul>
     <li>
     *PANGGALIH*
